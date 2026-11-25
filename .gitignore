@@ -1,4 +1,6 @@
 site/
 .venv/
 __pycache__/
-.claude/
+# Claude Code: share skills, keep personal/local settings out
+.claude/settings.local.json
+.claude/launch.json

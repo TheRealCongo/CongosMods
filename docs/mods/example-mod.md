@@ -1,8 +1,17 @@
+---
+repo: TheRealCongo/ExampleMod         # private source repo for this mod
+workshop_id: 0000000000000000         # Workshop GUID (from the mod's addon.gproj)
+version: 1.2.0                        # last version documented on this page
+updated: 2026-11-25                   # date of that version
+documented_commit: none               # mod repo commit this page was last updated against
+---
+
 # Example Mod
 
 <!--
   TEMPLATE PAGE: copy this file for each new mod and replace the placeholder text.
   It shows every feature once: info box, images, tables, a YouTube video, callout boxes and a changelog.
+  The front matter above isn't shown on the site; /wiki-update uses it to know what's already documented.
 -->
 
 <div class="infobox" markdown>
@@ -64,7 +73,7 @@ Add the mod to your server config's mod list:
 
 ## Changelog
 
-??? info "1.2.0 — 2026-11-25"
+???+ info "1.2.0 — 2026-11-25"
     - Added a new feature
     - Fixed a bug
 
