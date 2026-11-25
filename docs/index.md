@@ -11,6 +11,7 @@ Welcome! This wiki covers every mod we make: what each one does, how to install 
 |-----|--------------|----------------|
 | [Dynamic Lights](mods/dynamic-lights.md) | A complete working power grid: every light runs on the map's real power lines, and players can shut off, disrupt and restore them. | 2.3.1 |
 | [Mission Architect](mods/mission-architect.md) | Build PvE missions live as Game Master: triggers, spawners, objectives and fire support, linked together and saved. | 1.1.0 |
+| [Squad Composition](mods/squad-composition.md) | Squad layer: team colours and roles, Sections, a compass with your group list, a squad order wheel and better name tags. | 0.1.0 |
 | [Tactical Deployables](mods/tactical-deployables.md) | Field gear you carry, set up and pack away: sniper tripod, spotting scope and rangefinder, mast antenna, camo nets, tape, trip flares, chemlights and marker panels. | 0.10.0 |
 | [Weather System](mods/weather-system.md) | Smooth GM-timed weather changes, three rain levels, thick and thin fog, ground fog, lightning storms, rain on roofs and wind gusts. | 0.1.5 |
 | [Weather System - Desert](mods/weather-system-desert.md) | Desert weather for Weather System: haboob dust walls, sandstorms, dry thunderstorms, dust devils and blowing sand. | 0.1.0 |
