@@ -9,6 +9,7 @@ Welcome! This wiki covers every mod we make: what each one does, how to install 
 
 | Mod | What it does | Latest version |
 |-----|--------------|----------------|
+| [Mission Architect](mods/mission-architect.md) | Build PvE missions live as Game Master: triggers, spawners, objectives and fire support, linked together and saved. | 1.1.0 |
 | [Example Mod](mods/example-mod.md) | A one-line summary of the mod. | 1.2.0 |
 
 ## Finding things

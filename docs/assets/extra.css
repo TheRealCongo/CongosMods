@@ -40,3 +40,24 @@
 @media (max-width: 600px) {
   .infobox { float: none; width: auto; margin: 0 0 1em; }
 }
+
+/* Colour key swatch for legends: <span class="swatch" style="background:#hex"></span>. */
+.swatch {
+  display: inline-block;
+  width: 0.9em;
+  height: 0.9em;
+  margin-right: 0.3em;
+  border-radius: 3px;
+  vertical-align: -0.1em;
+  border: 1px solid var(--md-default-fg-color--lighter);
+}
+
+/* Piece icons are white on transparent (as in game), so they sit on a dark tile in both themes. */
+.md-typeset img.piece-icon {
+  width: 40px;
+  height: 40px;
+  padding: 5px;
+  background: #1e2329;
+  border-radius: 6px;
+  vertical-align: middle;
+}
