@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 122 46" width="122" height="46">
+<title>Withdraw</title>
+<g fill="none" stroke-linecap="butt" stroke-linejoin="round">
+<line x1="20" y1="21" x2="86" y2="21" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="20" y1="21" x2="86" y2="21" stroke="#0C45DE" stroke-width="2.5"/>
+<polyline points="86,21 87.561,20.846 89.061,20.391 90.445,19.652 91.657,18.657 92.652,17.445 93.391,16.061 93.846,14.561 94,13 93.846,11.439 93.391,9.939 92.652,8.555 91.657,7.343 90.445,6.348 89.061,5.609 87.561,5.154 86,5" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polyline points="86,21 87.561,20.846 89.061,20.391 90.445,19.652 91.657,18.657 92.652,17.445 93.391,16.061 93.846,14.561 94,13 93.846,11.439 93.391,9.939 92.652,8.555 91.657,7.343 90.445,6.348 89.061,5.609 87.561,5.154 86,5" stroke="#0C45DE" stroke-width="2.5"/>
+<polyline points="22.899,18.101 20,21 22.899,23.899" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polyline points="22.899,18.101 20,21 22.899,23.899" stroke="#0C45DE" stroke-width="2.5"/>
+</g>
+<text x="106" y="21.0" font-family="'Roboto Condensed', 'Arial Narrow', Arial, sans-serif" font-weight="bold" font-size="21" dominant-baseline="central" fill="#0C45DE">W</text>
+</svg>

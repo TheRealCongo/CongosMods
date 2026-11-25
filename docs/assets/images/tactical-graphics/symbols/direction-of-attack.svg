@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 120 46" width="120" height="46">
+<title>Direction of attack</title>
+<g fill="none" stroke-linecap="butt" stroke-linejoin="round">
+<line x1="12" y1="21" x2="104" y2="21" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="12" y1="21" x2="104" y2="21" stroke="#0C45DE" stroke-width="2.5"/>
+<polyline points="90,28 104,21 90,14" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polyline points="90,28 104,21 90,14" stroke="#0C45DE" stroke-width="2.5"/>
+</g>
+</svg>

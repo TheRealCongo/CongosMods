@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 120 46" width="120" height="46">
+<title>Avenue of approach</title>
+<g fill="none" stroke-linecap="butt" stroke-linejoin="round">
+<line x1="12" y1="28.5" x2="80" y2="28.5" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="12" y1="28.5" x2="80" y2="28.5" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="12" y1="13.5" x2="80" y2="13.5" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="12" y1="13.5" x2="80" y2="13.5" stroke="#0C45DE" stroke-width="2.5"/>
+<polyline points="80,28.5 80,37.5 104,21 80,4.5 80,13.5" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polyline points="80,28.5 80,37.5 104,21 80,4.5 80,13.5" stroke="#0C45DE" stroke-width="2.5"/>
+</g>
+</svg>

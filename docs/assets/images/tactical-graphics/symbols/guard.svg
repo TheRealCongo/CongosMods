@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 122 46" width="122" height="46">
+<title>Guard</title>
+<g fill="none" stroke-linecap="butt" stroke-linejoin="round">
+<polyline points="43.516,15.633 70.502,13.575 75.014,7.058 102,5" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polyline points="43.516,15.633 70.502,13.575 75.014,7.058 102,5" stroke="#0C45DE" stroke-width="2.5"/>
+<polyline points="99.744,8.258 102,5 98.742,2.744" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polyline points="99.744,8.258 102,5 98.742,2.744" stroke="#0C45DE" stroke-width="2.5"/>
+<polyline points="43.516,26.367 70.502,28.425 75.014,34.942 102,37" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polyline points="43.516,26.367 70.502,28.425 75.014,34.942 102,37" stroke="#0C45DE" stroke-width="2.5"/>
+<polyline points="98.742,39.256 102,37 99.744,33.742" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polyline points="98.742,39.256 102,37 99.744,33.742" stroke="#0C45DE" stroke-width="2.5"/>
+</g>
+<text x="106" y="21.0" font-family="'Roboto Condensed', 'Arial Narrow', Arial, sans-serif" font-weight="bold" font-size="21" dominant-baseline="central" fill="#0C45DE">G</text>
+</svg>

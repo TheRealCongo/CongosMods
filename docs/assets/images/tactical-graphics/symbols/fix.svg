@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 122 46" width="122" height="46">
+<title>Fix</title>
+<g fill="none" stroke-linecap="butt" stroke-linejoin="round">
+<polyline points="16,21 21.6,21 23.467,26.6 27.2,15.4 30.933,26.6 34.667,15.4 38.4,26.6 42.133,15.4 45.867,26.6 49.6,15.4 53.333,26.6 57.067,15.4 60.8,26.6 64.533,15.4 68.267,26.6 72,15.4 75.733,26.6 79.467,15.4 83.2,26.6 86.933,15.4 90.667,21 100,21" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polyline points="16,21 21.6,21 23.467,26.6 27.2,15.4 30.933,26.6 34.667,15.4 38.4,26.6 42.133,15.4 45.867,26.6 49.6,15.4 53.333,26.6 57.067,15.4 60.8,26.6 64.533,15.4 68.267,26.6 72,15.4 75.733,26.6 79.467,15.4 83.2,26.6 86.933,15.4 90.667,21 100,21" stroke="#0C45DE" stroke-width="2.5"/>
+<polyline points="96.267,24.733 100,21 96.267,17.267" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polyline points="96.267,24.733 100,21 96.267,17.267" stroke="#0C45DE" stroke-width="2.5"/>
+</g>
+<text x="106" y="21.0" font-family="'Roboto Condensed', 'Arial Narrow', Arial, sans-serif" font-weight="bold" font-size="21" dominant-baseline="central" fill="#0C45DE">F</text>
+</svg>

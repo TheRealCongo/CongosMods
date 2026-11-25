@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 120 46" width="120" height="46">
+<title>Secure</title>
+<g fill="none" stroke-linecap="butt" stroke-linejoin="round">
+<polygon points="74,21 73.217,25.944 70.944,30.405 67.405,33.944 62.944,36.217 58,37 53.056,36.217 48.595,33.944 45.056,30.405 42.783,25.944 42,21 42.783,16.056 45.056,11.595 48.595,8.056 53.056,5.783 58,5 62.944,5.783 67.405,8.056 70.944,11.595 73.217,16.056" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polygon points="74,21 73.217,25.944 70.944,30.405 67.405,33.944 62.944,36.217 58,37 53.056,36.217 48.595,33.944 45.056,30.405 42.783,25.944 42,21 42.783,16.056 45.056,11.595 48.595,8.056 53.056,5.783 58,5 62.944,5.783 67.405,8.056 70.944,11.595 73.217,16.056" stroke="#0C45DE" stroke-width="2.5"/>
+<polyline points="71.3,15 74,21 76.7,15" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polyline points="71.3,15 74,21 76.7,15" stroke="#0C45DE" stroke-width="2.5"/>
+<polyline points="44.7,27 42,21 39.3,27" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polyline points="44.7,27 42,21 39.3,27" stroke="#0C45DE" stroke-width="2.5"/>
+</g>
+</svg>

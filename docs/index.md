@@ -17,7 +17,6 @@ Welcome! This wiki covers every mod we make: what each one does, how to install 
 | [Tactical Graphics](mods/tactical-graphics.md) | APP-6 tactical graphics on the map: draw, share and brief plans, with fire-support pads, a briefing TV and a sand table. | 3.1.0 |
 | [Weather System](mods/weather-system.md) | Smooth GM-timed weather changes, three rain levels, thick and thin fog, ground fog, lightning storms, rain on roofs and wind gusts. | 0.1.5 |
 | [Weather System - Desert](mods/weather-system-desert.md) | Desert weather for Weather System: haboob dust walls, sandstorms, dry thunderstorms, dust devils and blowing sand. | 0.1.0 |
-| [Example Mod](mods/example-mod.md) | A one-line summary of the mod. | 1.2.0 |
 
 ## Finding things
 
