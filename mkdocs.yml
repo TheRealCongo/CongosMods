@@ -65,5 +65,6 @@ nav:
   - Getting Started: getting-started.md
   - Mods:
       - mods/index.md
+      - Mission Architect: mods/mission-architect.md
       - Example Mod: mods/example-mod.md
   - FAQ: faq.md

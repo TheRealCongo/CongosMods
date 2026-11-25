@@ -4,6 +4,7 @@ Every mod has its own page with features, screenshots, setup instructions and a 
 
 | Mod | Summary | Status |
 |-----|---------|--------|
+| [Mission Architect](mission-architect.md) | Build PvE missions live as Game Master: triggers, spawners, objectives and fire support, linked together and saved. | :material-check-circle:{ style="color: #4caf50" } Released |
 | [Example Mod](example-mod.md) | A one-line summary of the mod. | :material-check-circle:{ style="color: #4caf50" } Released |
 
 !!! tip "Adding a new mod page"
