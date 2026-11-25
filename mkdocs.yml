@@ -65,10 +65,12 @@ nav:
   - Getting Started: getting-started.md
   - Mods:
       - mods/index.md
+      - Crew Comms: mods/crew-comms.md
       - Dynamic Lights: mods/dynamic-lights.md
       - Mission Architect: mods/mission-architect.md
       - Squad Composition: mods/squad-composition.md
       - Tactical Deployables: mods/tactical-deployables.md
+      - Tactical Graphics: mods/tactical-graphics.md
       - Weather System: mods/weather-system.md
       - Weather System - Desert: mods/weather-system-desert.md
       - Example Mod: mods/example-mod.md
