@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 122 46" width="122" height="46">
+<title>Contain</title>
+<g fill="none" stroke-linecap="butt" stroke-linejoin="round">
+<polyline points="66,7 68.731,7.269 71.358,8.066 73.778,9.359 75.899,11.101 77.641,13.222 78.934,15.642 79.731,18.269 80,21 79.731,23.731 78.934,26.358 77.641,28.778 75.899,30.9 73.778,32.641 71.358,33.934 68.731,34.731 66,35" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polyline points="66,7 68.731,7.269 71.358,8.066 73.778,9.359 75.899,11.101 77.641,13.222 78.934,15.642 79.731,18.269 80,21 79.731,23.731 78.934,26.358 77.641,28.778 75.899,30.9 73.778,32.641 71.358,33.934 68.731,34.731 66,35" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="66" y1="7" x2="66" y2="14" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="66" y1="7" x2="66" y2="14" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="71.358" y1="8.066" x2="68.679" y2="14.533" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="71.358" y1="8.066" x2="68.679" y2="14.533" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="75.899" y1="11.101" x2="70.95" y2="16.05" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="75.899" y1="11.101" x2="70.95" y2="16.05" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="78.934" y1="15.642" x2="72.467" y2="18.321" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="78.934" y1="15.642" x2="72.467" y2="18.321" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="80" y1="21" x2="73" y2="21" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="80" y1="21" x2="73" y2="21" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="78.934" y1="26.358" x2="72.467" y2="23.679" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="78.934" y1="26.358" x2="72.467" y2="23.679" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="75.899" y1="30.899" x2="70.95" y2="25.95" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="75.899" y1="30.899" x2="70.95" y2="25.95" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="71.358" y1="33.934" x2="68.679" y2="27.467" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="71.358" y1="33.934" x2="68.679" y2="27.467" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="66" y1="35" x2="66" y2="28" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="66" y1="35" x2="66" y2="28" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="22" y1="21" x2="66" y2="21" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="22" y1="21" x2="66" y2="21" stroke="#0C45DE" stroke-width="2.5"/>
+<polyline points="63.949,23.051 66,21 63.949,18.949" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polyline points="63.949,23.051 66,21 63.949,18.949" stroke="#0C45DE" stroke-width="2.5"/>
+</g>
+<text x="106" y="21.0" font-family="'Roboto Condensed', 'Arial Narrow', Arial, sans-serif" font-weight="bold" font-size="21" dominant-baseline="central" fill="#0C45DE">C</text>
+</svg>

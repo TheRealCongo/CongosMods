@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 122 46" width="122" height="46">
+<title>Disrupt</title>
+<g fill="none" stroke-linecap="butt" stroke-linejoin="round">
+<line x1="30" y1="8" x2="30" y2="34" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="30" y1="8" x2="30" y2="34" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="30" y1="34" x2="96" y2="34" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="30" y1="34" x2="96" y2="34" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="16.8" y1="21" x2="82.8" y2="21" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="16.8" y1="21" x2="82.8" y2="21" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="30" y1="8" x2="69.6" y2="8" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="30" y1="8" x2="69.6" y2="8" stroke="#0C45DE" stroke-width="2.5"/>
+<polyline points="90.688,37.067 96,34 90.688,30.933" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polyline points="90.688,37.067 96,34 90.688,30.933" stroke="#0C45DE" stroke-width="2.5"/>
+<polyline points="77.488,24.067 82.8,21 77.488,17.933" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polyline points="77.488,24.067 82.8,21 77.488,17.933" stroke="#0C45DE" stroke-width="2.5"/>
+<polyline points="64.288,11.067 69.6,8 64.288,4.933" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polyline points="64.288,11.067 69.6,8 64.288,4.933" stroke="#0C45DE" stroke-width="2.5"/>
+</g>
+<text x="106" y="21.0" font-family="'Roboto Condensed', 'Arial Narrow', Arial, sans-serif" font-weight="bold" font-size="21" dominant-baseline="central" fill="#0C45DE">D</text>
+</svg>

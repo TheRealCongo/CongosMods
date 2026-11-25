@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 120 46" width="120" height="46">
+<title>Start point</title>
+<g fill="none" stroke-linecap="butt" stroke-linejoin="round">
+<polygon points="48.2,25.9 48.2,2.8 67.8,2.8 67.8,25.9 58,39.2" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polygon points="48.2,25.9 48.2,2.8 67.8,2.8 67.8,25.9 58,39.2" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="48.2" y1="25.9" x2="67.8" y2="25.9" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="48.2" y1="25.9" x2="67.8" y2="25.9" stroke="#0C45DE" stroke-width="2.5"/>
+</g>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 120 46" width="120" height="46">
+<title>Ambush</title>
+<g fill="none" stroke-linecap="butt" stroke-linejoin="round">
+<polyline points="42,6 43.25,7.364 44.377,8.833 45.371,10.393 46.226,12.035 46.934,13.745 47.49,15.51 47.891,17.316 48.132,19.151 48.213,21 48.132,22.849 47.891,24.684 47.49,26.49 46.934,28.255 46.226,29.965 45.371,31.607 44.377,33.167 43.25,34.636 42,36" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polyline points="42,6 43.25,7.364 44.377,8.833 45.371,10.393 46.226,12.035 46.934,13.745 47.49,15.51 47.891,17.316 48.132,19.151 48.213,21 48.132,22.849 47.891,24.684 47.49,26.49 46.934,28.255 46.226,29.965 45.371,31.607 44.377,33.167 43.25,34.636 42,36" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="48.213" y1="21" x2="100" y2="21" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="48.213" y1="21" x2="100" y2="21" stroke="#0C45DE" stroke-width="2.5"/>
+<polyline points="96.189,23.2 100,21 96.189,18.8" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polyline points="96.189,23.2 100,21 96.189,18.8" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="44.377" y1="8.833" x2="37.306" y2="8.833" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="44.377" y1="8.833" x2="37.306" y2="8.833" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="46.226" y1="12.035" x2="39.155" y2="12.035" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="46.226" y1="12.035" x2="39.155" y2="12.035" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="47.49" y1="15.51" x2="40.419" y2="15.51" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="47.49" y1="15.51" x2="40.419" y2="15.51" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="48.132" y1="19.151" x2="41.061" y2="19.151" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="48.132" y1="19.151" x2="41.061" y2="19.151" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="48.132" y1="22.849" x2="41.061" y2="22.849" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="48.132" y1="22.849" x2="41.061" y2="22.849" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="47.49" y1="26.49" x2="40.419" y2="26.49" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="47.49" y1="26.49" x2="40.419" y2="26.49" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="46.226" y1="29.965" x2="39.155" y2="29.965" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="46.226" y1="29.965" x2="39.155" y2="29.965" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="44.377" y1="33.167" x2="37.306" y2="33.167" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="44.377" y1="33.167" x2="37.306" y2="33.167" stroke="#0C45DE" stroke-width="2.5"/>
+</g>
+</svg>

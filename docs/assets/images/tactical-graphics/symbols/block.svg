@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 122 46" width="122" height="46">
+<title>Block</title>
+<g fill="none" stroke-linecap="butt" stroke-linejoin="round">
+<line x1="38" y1="7" x2="38" y2="35" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="38" y1="7" x2="38" y2="35" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="38" y1="21" x2="90" y2="21" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<line x1="38" y1="21" x2="90" y2="21" stroke="#0C45DE" stroke-width="2.5"/>
+</g>
+<text x="106" y="21.0" font-family="'Roboto Condensed', 'Arial Narrow', Arial, sans-serif" font-weight="bold" font-size="21" dominant-baseline="central" fill="#0C45DE">B</text>
+</svg>

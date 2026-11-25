@@ -12,7 +12,6 @@ Every mod has its own page with features, screenshots, setup instructions and a 
 | [Tactical Graphics](tactical-graphics.md) | APP-6 tactical graphics on the map: draw, share and brief plans, with fire-support pads, a briefing TV and a sand table. | :material-check-circle:{ style="color: #4caf50" } Released |
 | [Weather System](weather-system.md) | Smooth GM-timed weather changes, three rain levels, thick and thin fog, ground fog, lightning storms, rain on roofs and wind gusts. | :material-check-circle:{ style="color: #4caf50" } Released |
 | [Weather System - Desert](weather-system-desert.md) | Desert weather for Weather System: haboob dust walls, sandstorms, dry thunderstorms, dust devils and blowing sand. | :material-check-circle:{ style="color: #4caf50" } Released |
-| [Example Mod](example-mod.md) | A one-line summary of the mod. | :material-check-circle:{ style="color: #4caf50" } Released |
 
 !!! tip "Adding a new mod page"
     Copy `docs/mods/example-mod.md` to a new file (for example `docs/mods/my-new-mod.md`), fill it in, then add it to the table above and to the `nav:` list in `mkdocs.yml`.

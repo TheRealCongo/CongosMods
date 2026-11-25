@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 120 46" width="120" height="46">
+<title>Generic obstacle</title>
+<g fill="none" stroke-linecap="butt" stroke-linejoin="round">
+<polyline points="12,21 20,21 26,30 32,21 48,21 54,30 60,21 76,21 82,30 88,21 104,21" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polyline points="12,21 20,21 26,30 32,21 48,21 54,30 60,21 76,21 82,30 88,21 104,21" stroke="#0C45DE" stroke-width="2.5"/>
+</g>
+</svg>

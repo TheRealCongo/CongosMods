@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 120 46" width="120" height="46">
+<title>Obstacle belt</title>
+<g fill="none" stroke-linecap="butt" stroke-linejoin="round">
+<polygon points="14,7 99,9 104,33 20,36" stroke="#000000" stroke-width="5" stroke-opacity="0.902"/>
+<polygon points="14,7 99,9 104,33 20,36" stroke="#0C45DE" stroke-width="2.5"/>
+<line x1="19.186" y1="23.814" x2="34.08" y2="8.92" stroke="#0C45DE" stroke-width="1.35" stroke-opacity="0.745"/>
+<line x1="30.748" y1="34.252" x2="55.574" y2="9.426" stroke="#0C45DE" stroke-width="1.35" stroke-opacity="0.745"/>
+<line x1="53.562" y1="33.438" x2="77.069" y2="9.931" stroke="#0C45DE" stroke-width="1.35" stroke-opacity="0.745"/>
+<line x1="76.377" y1="32.623" x2="97.758" y2="11.242" stroke="#0C45DE" stroke-width="1.35" stroke-opacity="0.745"/>
+<line x1="99.192" y1="31.808" x2="101.551" y2="29.449" stroke="#0C45DE" stroke-width="1.35" stroke-opacity="0.745"/>
+</g>
+</svg>

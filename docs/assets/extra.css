@@ -61,3 +61,12 @@
   border-radius: 6px;
   vertical-align: middle;
 }
+
+/* Tactical Graphics legend: symbols sit on a map-paper tile so they read in light and dark themes. */
+.md-typeset img[src*="tactical-graphics/symbols/"],
+.md-typeset img[src*="tactical-graphics/units/"] {
+  background: #e9e4d8;
+  padding: 4px;
+  border-radius: 4px;
+  vertical-align: middle;
+}
