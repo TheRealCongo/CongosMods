@@ -9,7 +9,9 @@ Welcome! This wiki covers every mod we make: what each one does, how to install 
 
 | Mod | What it does | Latest version |
 |-----|--------------|----------------|
+| [Dynamic Lights](mods/dynamic-lights.md) | A complete working power grid: every light runs on the map's real power lines, and players can shut off, disrupt and restore them. | 2.3.1 |
 | [Mission Architect](mods/mission-architect.md) | Build PvE missions live as Game Master: triggers, spawners, objectives and fire support, linked together and saved. | 1.1.0 |
+| [Tactical Deployables](mods/tactical-deployables.md) | Field gear you carry, set up and pack away: sniper tripod, spotting scope and rangefinder, mast antenna, camo nets, tape, trip flares, chemlights and marker panels. | 0.10.0 |
 | [Example Mod](mods/example-mod.md) | A one-line summary of the mod. | 1.2.0 |
 
 ## Finding things
