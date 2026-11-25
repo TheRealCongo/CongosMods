@@ -5,7 +5,7 @@ Welcome! This wiki covers every mod we make: what each one does, how to install 
 !!! tip "New here?"
     Start with **[Getting Started](getting-started.md)** to learn how to install the mods.
 
-## Our mods
+## Congo's mods
 
 | Mod | What it does | Latest version |
 |-----|--------------|----------------|
