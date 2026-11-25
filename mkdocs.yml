@@ -65,6 +65,8 @@ nav:
   - Getting Started: getting-started.md
   - Mods:
       - mods/index.md
+      - Dynamic Lights: mods/dynamic-lights.md
       - Mission Architect: mods/mission-architect.md
+      - Tactical Deployables: mods/tactical-deployables.md
       - Example Mod: mods/example-mod.md
   - FAQ: faq.md
